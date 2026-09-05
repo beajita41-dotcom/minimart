@@ -1,0 +1,18 @@
+{
+  "name": "มินิมาร์ทสะดวกซื้อ",
+  "short_name": "มินิมาร์ท",
+  "description": "ระบบขายหน้าร้าน POS พร้อมจัดการสต๊อกสินค้า",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f6f8",
+  "theme_color": "#2e7d32",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
